@@ -69,7 +69,6 @@ applications.
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/acj97/acj97/master/mage.svg" alt="mage casting a spell" />
   <img src="https://raw.githubusercontent.com/acj97/acj97/output/dragon-contribution-grid.svg" alt="dragon eating my contribution graph" />
 </div>
 
