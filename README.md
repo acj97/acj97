@@ -29,7 +29,7 @@ applications.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=acj97&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F9A825&icon_color=F9A825&text_color=C9D1D9" />
+<img height="165em" src="https://backend-lake-tau-8z2rj2l4vy.vercel.app/api?username=acj97&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F9A825&icon_color=F9A825&text_color=C9D1D9" />
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=acj97&theme=dark&hide_border=true&background=0D1117&ring=F9A825&fire=F9A825&currStreakLabel=F9A825" />
 
 </div>
