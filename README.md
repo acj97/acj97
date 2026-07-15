@@ -41,7 +41,7 @@ applications.
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=F9A825)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=F9A825)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=F9A825)
 ![Vue.js](https://img.shields.io/badge/Vue.js-1a1a1a?style=for-the-badge&logo=vuedotjs&logoColor=F9A825)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=F9A825)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=F9A825)
@@ -69,6 +69,7 @@ applications.
 <br />
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/acj97/acj97/master/mage.svg" alt="mage casting a spell" />
   <img src="https://raw.githubusercontent.com/acj97/acj97/output/dragon-contribution-grid.svg" alt="dragon eating my contribution graph" />
 </div>
 
@@ -76,7 +77,7 @@ applications.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=F9A825)](https://linkedin.com/in/abraham-christian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjRjlBODI1IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://linkedin.com/in/abraham-christian)
 [![Website](https://img.shields.io/badge/Website-1a1a1a?style=for-the-badge&logo=safari&logoColor=F9A825)](https://abraham-christian.site)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=F9A825)](mailto:abrahamchristian97@gmail.com)
 
